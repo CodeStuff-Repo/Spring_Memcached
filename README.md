@@ -1,4 +1,5 @@
-# Memcached with Spring Boot [![MIT license](https://img.shields.io/badge/license-GPL_3.0-yellow.svg)](https://raw.githubusercontent.com/CodeStuff-Repo/Spring_Memcached/master/LICENSE)
+# Memcached with Spring Boot [![MIT license](https://img.shields.io/badge/license-GPL_3.0-yellow.svg)](https://raw.githubusercontent.com/CodeStuff-Repo/Spring_Memcached/master/LICENSE) [![Build Status](https://travis-ci.org/CodeStuff-Repo/Spring_Memcached.svg?branch=master)](https://travis-ci.org/CodeStuff-Repo/Spring_Memcached)
+
 ## Why Memcached ?
 ##### *Are you interacting with Database for each transaction?*
 Then you must apply a cache mechanism to avoid multiple database calls and faster response.
